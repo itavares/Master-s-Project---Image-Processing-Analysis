@@ -34,7 +34,7 @@ img = cv2.imread(param1, cv2.IMREAD_COLOR)
 gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY) 
 
 # Blur using 3 * 3 kernel. 
-gray_blurred = we(gray, (3, 3)) 
+gray_blurred = cv2.cvtColor(gray, (3, 3)) 
 
 # Apply Hough transform on the blurred image. 
 detected_circles = cv2.HoughCircles(gray_blurred,  
