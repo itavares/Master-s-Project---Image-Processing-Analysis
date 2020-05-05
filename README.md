@@ -14,10 +14,12 @@ Alternatively, you can manually run each individual script through the command l
 
 # Custom LED Device
 To built the custom LED device, you will need the following components:
-• Arduino Uno 
-• AD5171 Digital Potentiometer 
-• 3 x High Brightness LED 
-• 4 x 4.7k Ω Resistors 
-• 3 x 220 Ω Resistors 
-• Breadboard 
-• Hookup Wire
+-  Arduino Uno 
+-  AD5171 Digital Potentiometer 
+-  3 x High Brightness LED 
+-  4 x 4.7k Ω Resistors 
+-  3 x 220 Ω Resistors 
+-  Breadboard 
+-  Hookup Wire
+
+
